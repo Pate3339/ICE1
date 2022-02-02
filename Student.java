@@ -1,11 +1,7 @@
-/*
-
-Date: Jan 29th 2022
-
-Author: Shubham Patel
-
-This is comment.
-
+/**
+*Date: Jan 29th 2022
+*Author: Shubham Patel
+*this is a comment
 */
 
 package Student;
