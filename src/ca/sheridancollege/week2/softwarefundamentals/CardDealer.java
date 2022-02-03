@@ -8,7 +8,7 @@ package ca.sheridancollege.week2.softwarefundamentals;
 /**
  * The class where we create Cards
  * @author dancye, 
- * Name: SHubham Mehulkumar Patel
+ * Name: Shubham Mehulkumar Patel
  * Student Id : 991645005 
  */
 public class CardDealer 
