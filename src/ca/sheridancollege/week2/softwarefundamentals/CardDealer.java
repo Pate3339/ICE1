@@ -21,5 +21,7 @@ public class CardDealer
         queen.setSuit("Spades");
             Card black = new Card("hearts", 9);
         black.setSuit("hearts");
+        System.out.println("queen.getSuit()");
+        System.out.println("black.getSuit()");    
     }
 }
